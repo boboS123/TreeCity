@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TreeCity",
+			"Path": "H:\\TreeCity\\Source\\TreeCity.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TreeCityEditor",
+			"Path": "H:\\TreeCity\\Source\\TreeCityEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
