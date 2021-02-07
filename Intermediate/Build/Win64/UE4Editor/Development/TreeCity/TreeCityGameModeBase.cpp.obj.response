@@ -31,8 +31,8 @@
 /wd4244
 /wd4838
 /I .
-/I H:\TreeCity\Intermediate\Build\Win64\UE4Editor\Inc\TreeCity
-/I H:\TreeCity\Source
+/I H:\TreeCityGit\TreeCity\Intermediate\Build\Win64\UE4Editor\Inc\TreeCity
+/I H:\TreeCityGit\TreeCity\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -261,12 +261,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"H:\TreeCity\Intermediate\Build\Win64\TreeCityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"H:\TreeCity\Intermediate\Build\Win64\TreeCityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"H:\TreeCity\Intermediate\Build\Win64\TreeCityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"H:\TreeCity\Source\TreeCity\TreeCityGameModeBase.cpp"
-/FI"H:\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\Definitions.TreeCity.h"
-/Fo"H:\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\TreeCityGameModeBase.cpp.obj"
+/FI"H:\TreeCityGit\TreeCity\Intermediate\Build\Win64\TreeCityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"H:\TreeCityGit\TreeCity\Intermediate\Build\Win64\TreeCityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"H:\TreeCityGit\TreeCity\Intermediate\Build\Win64\TreeCityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"H:\TreeCityGit\TreeCity\Source\TreeCity\TreeCityGameModeBase.cpp"
+/FI"H:\TreeCityGit\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\Definitions.TreeCity.h"
+/Fo"H:\TreeCityGit\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\TreeCityGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4

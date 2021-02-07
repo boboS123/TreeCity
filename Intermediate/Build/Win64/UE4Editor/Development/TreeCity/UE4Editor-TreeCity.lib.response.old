@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TreeCity.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:\TreeCity\Intermediate\Build\Win64\TreeCityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"H:\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\TreeCity.cpp.obj"
+"H:\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\TreeCityGameModeBase.cpp.obj"
+"H:\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\TreeCity.init.gen.cpp.obj"
+"H:\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\TreeCityGameModeBase.gen.cpp.obj"
+"H:\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\Default.rc2.res"
+/OUT:"H:\TreeCity\Intermediate\Build\Win64\UE4Editor\Development\TreeCity\UE4Editor-TreeCity.lib"
+/INCLUDE:IMPLEMENT_MODULE_TreeCity
